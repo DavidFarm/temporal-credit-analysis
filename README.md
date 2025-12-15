@@ -86,6 +86,8 @@ Once permitted, this repository will be updated with:
 ## Why this project exists
 
 This project was built to demonstrate:
+- how to build an entire ETL pipeline in SQL including SCD2 dimensions
+- (proof-of-concept of ETL code)
 - how subtle modeling choices affect business conclusions
 - practical handling of Slowly Changing Dimensions
 - the ability to turn complex data engineering concepts into clear, business-facing insights
